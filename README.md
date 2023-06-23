@@ -1,11 +1,8 @@
 Hey 👋 My name is Karlo
 ======================
-I'm a software developer from Croatia
--------------------------------
 *   🌍  I'm based in Zagreb, Croatia
 *   🎓  I'm currently studying Software Engineering at Algebra University College.
 *   💬  Fluent in English and Croatian, and learning German.
-*   ✉️  You can contact me at [hruskovec.karlo@gmail.com](mailto:hruskovec.karlo@gmail.com)
 *   🧠  I'm currently diving deep into .NET and C#
   
 ### Skills
