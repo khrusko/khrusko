@@ -4,7 +4,8 @@ I'm a software developer from Croatia
 -------------------------------
 *   🌍  I'm based in Zagreb, Croatia
 *   ✉️  You can contact me at [hruskovec.karlo@gmail.com](mailto:hruskovec.karlo@gmail.com)
-*   🧠  I'm currently sharpening my knowledge of .NET C#
+*   🧠  I'm currently diving deep into .NET and C#
+*   
   
 ### Skills
 Here are some of the languages, tools and technologies I work with:
@@ -40,6 +41,16 @@ Here are some of the languages, tools and technologies I work with:
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/reactnative-colored.svg" width="36" height="36" alt="React Native" /></a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Azure" /></a>
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/junit-colored.svg" width="36" height="36" alt="JUnit" /></a>
+<a href="https://www.cplusplus.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="36" height="36" alt="C++" /></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/net.png" width="36" height="36" alt=".NET" /></a>
+<a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/aspnet.png" width="36" height="36" alt="ASP.NET" /></a>
+<a href="https://dotnet.microsoft.com/learn/aspnet/blazor" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/aspnet.png" width="36" height="36" alt="ASP.NET Core" /></a>
+<a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="36" height="36" alt="RESTful APIs" /></a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" /></a>
+<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="36" height="36" alt="GitHub" /></a>
+<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="36" height="36" alt="React Native" /></a>
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" width="36" height="36" alt="Azure" /></a>
+<a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/ios/50/000000/junit.png" width="36" height="36" alt="JUnit" /></a>
 </p>
 
 
