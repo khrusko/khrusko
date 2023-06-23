@@ -1,9 +1,9 @@
 Hey 👋 My name is Karlo
 ======================
 *   🌍  I'm based in Zagreb, Croatia
-*   🎓  I'm currently studying Software Engineering at Algebra University College.
-*   💬  Fluent in English and Croatian, and learning German.
-*   🧠  I'm currently diving deep into .NET and C#
+*   🎓  Pursuing a degree in Software Engineering at Algebra University College.
+*   💬  Proficient in English and Croatian, currently learning German.
+*   🧠  Deepening my expertise in .NET and C#.
   
 ### Skills
 
