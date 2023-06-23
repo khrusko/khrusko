@@ -5,7 +5,7 @@ I'm a software developer from Croatia
 *   🌍  I'm based in Zagreb, Croatia
 *   ✉️  You can contact me at [hruskovec.karlo@gmail.com](mailto:hruskovec.karlo@gmail.com)
 *   🧠  I'm currently diving deep into .NET and C#
-*   
+  
   
 ### Skills
 Here are some of the languages, tools and technologies I work with:
@@ -23,7 +23,7 @@ Here are some of the languages, tools and technologies I work with:
 <a href="https://en.cppreference.com/w/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png" width="36" height="36" alt=".NET" /></a>
-<a href="https://dotnet.microsoft.com/apps/aspnet/core" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png" width="36" height="36" alt=".NET Core" /></a>
+<a href="https://dotnet.microsoft.com/apps/aspnet/core" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" width="36" height="36" alt=".NET Core" /></a>
 <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React.js" /></a>
@@ -47,8 +47,8 @@ Here are some of the languages, tools and technologies I work with:
 
 If you'd like to reach out to me, feel free to send me an email at [hruskovec.karlo@gmail.com](mailto:hruskovec.karlo@gmail.com).
 
-Connect with me on LinkedIn: <a href="https://www.linkedin.com/in/karlo-hruskovec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-
-Join me on Discord:  <a href="https://discord.com/users/196641671608270848" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
+Or reach out to me on the following socials
+<a href="https://www.linkedin.com/in/karlo-hruskovec/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+<a href="https://discord.com/users/196641671608270848" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 
 Looking forward to connecting with you!
