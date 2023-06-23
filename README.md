@@ -8,9 +8,7 @@ I'm a software developer from Croatia
 *   ✉️  You can contact me at [hruskovec.karlo@gmail.com](mailto:hruskovec.karlo@gmail.com)
 *   🧠  I'm currently diving deep into .NET and C#
   
-  
 ### Skills
-Here are some of the languages, tools and technologies I work with:
 
 Languages:
 
@@ -38,29 +36,18 @@ Backend:
 <a href="https://dotnet.microsoft.com/apps/aspnet/core" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" width="36" height="36" alt=".NET Core" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
 </p>
-Databases:
+Other:
 
 <p align="left">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/sql.png" width="36" height="36" alt="SQL" /></a>
-</p>
-APIs:
-
-<p align="left">
 <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluency/48/000000/api-settings.png" width="36" height="36" alt="RESTful APIs" /></a>
-</p>
-Tools:
-
-<p align="left">
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/fluent/48/000000/github.png" width="36" height="36" alt="GitHub" /></a>
 <a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/azure-1.png" width="36" height="36" alt="Azure" /></a>
-</p>
-Testing:
-
-<p align="left">
 <a href="https://junit.org/junit5/" target="_blank" rel="noreferrer"><img src="https://junit.org/junit5/assets/img/junit5-logo.png" width="36" height="36" alt="JUnit" /></a>
 </p>
+
 
 ## 📫 Contact Me 
 
