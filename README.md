@@ -30,7 +30,7 @@ Backend:
 
 <p align="left">
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/25181517/121405947-e8371e80-c95d-11eb-9e81-432e077edd40.png" width="36" height="36" alt=".NET" /></a>
-<a href="https://dotnet.microsoft.com/apps/aspnet/core" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/512px-.NET_Core_Logo.svg.png?20210328084203" width="36" height="36" alt=".NET Core" /></a>
+<a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank" rel="noreferrer"><img src="https://commons.wikimedia.org/wiki/Special:FilePath/.NET_Core_Logo.svg?width=512" width="36" height="36" alt=".NET Core" /></a>
 <a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="Node.js" /></a>
 </p>
 Other:
